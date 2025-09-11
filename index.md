@@ -1,9 +1,5 @@
----
-title: "SmartBell - Intelligent Video Doorbell"
-date: 2022-10-14
-categories: 
-  - "programming"
----
+# **SmartBell – Intelligent Video Doorbell**
+
 
 **This project was **completed** as part of A Level Computer Science and was awarded 97%.**
 
