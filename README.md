@@ -3,7 +3,7 @@
 
 **This project was **completed** as part of A Level Computer Science and was awarded 97%.**
 
-![](images/image.jpeg)
+<img src="images/image.jpeg" width="300">
 
 For the coursework component of my Computer Science A Level, I wanted to create a project which was genuinely useful. One day I was talking with a family friend who, during COVID, worked mainly from home. She mentioned that often her work calls would get interrupted by people ringing the doorbell, making it hard to stay focused and professional. So, I made it my mission to solve her problem!
 
@@ -17,12 +17,13 @@ Check out this video below to see the doorbell in action:
 
 https://www.youtube.com/watch?v=hvcWZEq3k6o
 
-If you'd like to read the code I wrote for this project, here's the GitHub repositories for the [Raspberry Pi](https://github.com/orlandoalexander/ComputerScience-A-Level-NEA-RPi), [Mobile App](https://github.com/orlandoalexander/ComputerScience-NEA-App) and [Web Server](https://github.com/orlandoalexander/Computer-Science-A-Level-NEA-Web-Server).
 
 ## The Report
 
 This report is COMPREHENSIVE to say the least! It covers the ins and outs my solution, as well as challenges faced along the way; there's also lots of pretty diagrams, so enjoy!
 
-![](images/screenshot-2022-10-14-at-13.10.06-1.png)
+<img src="images/screenshot-2022-10-14-at-13.10.06-1.png" width="400">
+
+
 
 [SmartBell Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)[Download](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
