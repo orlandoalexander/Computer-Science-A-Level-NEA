@@ -13,9 +13,7 @@ Over the course of many months, I designed, developed, tested and refined my sol
 
 Simply put, it's a doorbell with a brain. The doorbell itself is essentially a Raspberry Pi with some wires dangling off it: a camera, speaker and a button. When the doorbell is rung, the nifty camera captures a photo of the visitor and, if they're a regular, works out their name with a little bit of computer vision (_OpenCV_). Now, the second aspect of the project: the mobile app. This app allows the user to interact with the doorbell (and whoever is ringing the doorbell during a conference call!) directly from their phone. So when the doorbell is rung, a notification pops up on their phone, along with a picture of the visitor (and their name where possible). And then, without leaving their desk, the busy home-worker can then quickly select a pre-recorded audio message to be played through the doorbell's speaker - perhaps 'Could you leave the shopping by the porch?'. In the case that they're out and about when the doorbell is rung, the app will also store a log of all the visits to their house.
 
-Check out this video below to see the doorbell in action:
-
-https://www.youtube.com/watch?v=hvcWZEq3k6o
+Check out this video below to see the doorbell in action: [Watch the video](https://www.youtube.com/watch?v=hvcWZEq3k6o)
 
 
 ## The Report
