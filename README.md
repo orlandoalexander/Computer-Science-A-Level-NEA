@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=hvcWZEq3k6o
 
 This report is COMPREHENSIVE to say the least! It covers the ins and outs my solution, as well as challenges faced along the way; there's also lots of pretty diagrams, so enjoy!
 
+
+
+[Download SmartBell NEA Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
+
 <img src="images/screenshot-2022-10-14-at-13.10.06-1.png" width="400">
-
-
-
-[SmartBell Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)[Download](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
