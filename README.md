@@ -3,7 +3,7 @@
 
 **This project was **completed** as part of A Level Computer Science and was awarded 97%.**
 
-<img src="images/image.jpeg" width="300">
+<img src="images/image.jpeg" width="400">
 
 For the coursework component of my Computer Science A Level, I wanted to create a project which was genuinely useful. One day I was talking with a family friend who, during COVID, worked mainly from home. She mentioned that often her work calls would get interrupted by people ringing the doorbell, making it hard to stay focused and professional. So, I made it my mission to solve her problem!
 
@@ -26,4 +26,4 @@ This report is COMPREHENSIVE to say the least! It covers the ins and outs my sol
 
 [Download SmartBell NEA Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
 
-<img src="images/screenshot-2022-10-14-at-13.10.06-1.png" width="400">
+<img src="images/screenshot-2022-10-14-at-13.10.06-1.png" width="300">
