@@ -6,7 +6,7 @@
 
 Coursework project for **A Level Computer Science** awarded **97%**.  
 
-📄 [Download Project Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
+📄 [Download Project Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)<br>
 📹 [Watch Demo Video ](https://www.youtube.com/watch?v=hvcWZEq3k6o)  
 
 
