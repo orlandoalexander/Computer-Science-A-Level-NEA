@@ -13,7 +13,7 @@ Coursework project for **A Level Computer Science** awarded **97%**.
 - **Hardware**: Raspberry Pi 4, Monk Makes Speaker Module, Raspberry Pi Camera Module V1
 - **Frontend**: Python Kivy (mobile app UI)  
 - **Backend**: Flask (API + server logic), OpenCV (image processing), face_recognition (deep learning-based face recognition), MQTT (real-time notifications)
-- **Database**: MySQL (visitor logs, face data, audio recordings, user accounts) with SHA3-256 hashing for secure credential storage  
+- **Database**: MySQL (visitor logs, face data, audio recordings, user accounts) with SHA3-256 hashing for secure credential storage<br><br>
 
 ## 📝 Project Overview
 
