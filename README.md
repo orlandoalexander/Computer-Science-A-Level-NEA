@@ -1,5 +1,6 @@
 # AI-Driven Video Doorbell & Mobile App
 
+<img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
 
 **AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Captures images of visitors, recognises familiar faces with computer vision, and allows the user to interact via a mobile app – all without leaving their desk. 
 
@@ -27,10 +28,6 @@ SmartBell is an AI-driven video doorbell and mobile app. At its core, a Raspberr
 
 The mobile app allows the user to interact with the doorbell in real-time. When the doorbell is rung, a notification appears on the user’s phone with a photo of the visitor and, where it is known, their name. The user can then play a pre-recorded audio message through the doorbell’s speaker without leaving their desk, for example, *“Could you leave the shopping by the porch?”*. If the user is away, the app logs all visits, storing images and timestamps for easy review.
 
-<br>
-
-<img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
-
 
 ### Visitor Capture & Detection
 - Button press triggers Raspberry Pi camera to capture visitor image  
@@ -50,9 +47,9 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 ### Cloud Logging & Notifications
 - Stores visitor images and timestamps in a secure cloud database  
 - Sends notifications even when the user is away from home  
-- Provides an easy-to-review history of all visits
+- Provides an easy-to-review history of all visits<br><br>
 
-<br>
+## ⚙️ System Design
 
 ### Mobile App
 <img width="708" height="559" alt="Mobile App Screenshot" src="https://github.com/user-attachments/assets/25f52962-6f74-4fb4-bddc-81452e23cd09" />
