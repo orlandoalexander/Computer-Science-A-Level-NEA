@@ -42,7 +42,7 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 - Compares encodings against a stored database of known visitors  
 - Identifies visitors in real-time and updates database with new faces for improved accuracy  
 
-### Mobile App Interaction
+### Mobile App 
 - Notifies user when the doorbell is rung and displays visitor image and name (if available)  
 - Plays pre-recorded messages remotely via Raspberry Pi speaker  
 - Logs visits when the user is unavailable  
@@ -52,10 +52,14 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 - Sends notifications even when the user is away from home  
 - Provides an easy-to-review history of all visits
 
+<br>
 
-<img width="708" height="559" alt="Screenshot 2025-09-13 at 16 45 02" src="https://github.com/user-attachments/assets/79fae5a9-1846-4869-b0c6-f49fd78f38d1" />
-<img width="607" height="733" alt="Screenshot 2025-09-13 at 16 45 17" src="https://github.com/user-attachments/assets/ca58cd96-cfd5-46d0-9cc9-7f0cc6d38c80" />
-<img width="764" height="294" alt="Screenshot 2025-09-13 at 16 45 08" src="https://github.com/user-attachments/assets/39dab4e1-82f4-4946-9c16-235322f876c7" />
+### Mobile App
+<img width="708" height="559" alt="Mobile App Screenshot" src="https://github.com/user-attachments/assets/25f52962-6f74-4fb4-bddc-81452e23cd09" />
 
+### Backend Server
+<img width="607" height="733" alt="Backend Server Screenshot" src="https://github.com/user-attachments/assets/f62c6ccd-010c-498e-819b-58c3e6431137" />
 
+### Raspberry Pi
+<img width="764" height="294" alt="Raspberry Pi Screenshot" src="https://github.com/user-attachments/assets/430a3b4b-56ce-46c2-93c0-4ba8a3f84f16" />
 
