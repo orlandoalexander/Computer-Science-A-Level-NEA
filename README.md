@@ -1,7 +1,5 @@
 # AI-Driven Video Doorbell & Mobile App
 
-<img src="https://github.com/user-attachments/assets/78e77887-d6a0-4880-acc7-e297c0ba0bf7" width="400">
-
 **AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Sends instant visitor notifications through the app, recognises familiar faces using computer vision, and enables seamless interaction with visitors – all without leaving their desk.
 
 Coursework project for **A Level Computer Science** awarded **97%**.  
@@ -18,6 +16,8 @@ Coursework project for **A Level Computer Science** awarded **97%**.
 - **Database**: MySQL (visitor logs, face data, audio recordings, user accounts) with SHA3-256 hashing for secure credential storage  
 
 ## 📝 Project Overview
+
+<img src="https://github.com/user-attachments/assets/78e77887-d6a0-4880-acc7-e297c0ba0bf7" width="400">
 
 For my A Level Computer Science coursework, I wanted to create a project that was genuinely useful. During COVID, a family friend working from home mentioned that her video calls were frequently interrupted by visitors ringing the doorbell, making it difficult to stay focused and professional. I decided to solve this problem with an intelligent, AI-powered solution.  
 
