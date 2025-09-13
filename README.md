@@ -4,7 +4,7 @@
 
 Coursework project for **A Level Computer Science** awarded **97%**.  
 
-📄 [Download Project Report (pdf)](https://github.com/user-attachments/files/22313050/orlando-alexander-nea-report.pdf)<br>
+📄 [Download Project Report (PDF)](https://github.com/user-attachments/files/22313050/orlando-alexander-nea-report.pdf)<br>
 📹 [Watch Demo Video ](https://www.youtube.com/watch?v=hvcWZEq3k6o)<br><br>
 
 
