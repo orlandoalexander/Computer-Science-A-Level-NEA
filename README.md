@@ -1,4 +1,4 @@
-# AI-Driven Video Doorbell & App
+# AI-Driven Video Doorbell & Mobile App
 
 <img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
 
@@ -7,13 +7,13 @@
 Coursework project for **A Level Computer Science** awarded **97%**.  
 
 📄 [Download Project Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)<br>
-📹 [Watch Demo Video ](https://www.youtube.com/watch?v=hvcWZEq3k6o)  
+📹 [Watch Demo Video ](https://www.youtube.com/watch?v=hvcWZEq3k6o)<br><br>
 
 
 ## 🛠 Tech Stack
 
 - **Hardware**: Raspberry Pi 4, Monk Makes Speaker Module, Raspberry Pi Camera Module V1
-- **Software**: Python Kivy (movile app frontend), Flask (mobile app backend), OpenCV (image processing), face_recognition (deep learning-based face recognition),
+- **Software**: OpenCV (image processing), face_recognition (deep learning-based face recognition), Python Kivy (movile app frontend), Flask (mobile app backend)<br><br>
 
 
 ## 📝 Project Overview
