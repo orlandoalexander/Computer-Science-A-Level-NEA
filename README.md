@@ -1,6 +1,6 @@
 # AI-Driven Video Doorbell & Mobile App
 
-<img src="https://github.com/user-attachments/assets/ed63e516-eb43-441d-b627-a9019ca9527a" width="400">
+<img src="https://github.com/user-attachments/assets/78e77887-d6a0-4880-acc7-e297c0ba0bf7" width="400">
 
 **AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Sends instant visitor notifications through the app, recognises familiar faces using computer vision, and enables seamless interaction with visitors – all without leaving their desk.
 
