@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/ed63e516-eb43-441d-b627-a9019ca9527a" width="400">
 
-**AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Captures images of visitors, recognises familiar faces with computer vision, and allows the user to interact via a mobile app – all without leaving their desk. 
+**AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Sends instant visitor notifications through the app, recognises familiar faces using computer vision, and enables seamless interaction with visitors – all without leaving their desk.
 
 Coursework project for **A Level Computer Science** awarded **97%**.  
 
