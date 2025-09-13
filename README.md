@@ -1,4 +1,44 @@
-# **SmartBell – Intelligent Video Doorbell**
+# **AI-Driven Video Doorbell & App**
+
+<img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
+
+**Intelligent doorbell system** designed to help home-workers avoid interruptions during video calls. Captures images of visitors, recognises familiar faces with computer vision, and allows the user to interact via a mobile app – all without leaving their desk. 
+
+Developed as part of **A Level Computer Science** coursework and awarded **97%**.  
+
+📹 [Watch the video](https://www.youtube.com/watch?v=hvcWZEq3k6o)  
+📄 [Download SmartBell NEA Report](https://orlandoalexander.wordpress.com/wp-content/uploads/2022/10/smartbell-report.docx)
+---
+
+## 🛠 Tech Stack
+
+- **Hardware**: Raspberry Pi, camera, speaker, doorbell button  
+- **Software**: Python, OpenCV (face recognition), Flask (mobile app backend)  
+- **Tools**: Notifications, pre-recorded audio messages, image logging  
+
+---
+
+## 📝 Project Overview
+
+### 1. Visitor Detection
+- Button press triggers Raspberry Pi camera  
+- Captures image of visitor  
+- Uses **OpenCV face recognition** to identify known visitors  
+
+### 2. Mobile App Interaction
+- Sends notification to the user’s phone with visitor image and name  
+- Allows pre-recorded messages to be played through the doorbell speaker  
+- Logs all visits when user is unavailable  
+
+### 3. Face Recognition
+- Detects and identifies visitors in real-time  
+- Maintains a database of familiar faces for faster recognition  
+- Uses image preprocessing to improve recognition accuracy  
+
+### 4. Logging & Notifications
+- Stores all visitor images and timestamps  
+- Sends notifications even when user is away from home  
+- Allows easy review of visitor history
 
 
 **This project was **completed** as part of A Level Computer Science and was awarded 97%.**
