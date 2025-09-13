@@ -30,7 +30,6 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 <br>
 
 <img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
-<img src="https://github.com/user-attachments/assets/64f4779e-6d94-4b91-859b-e068ba9318a2" width="400">
 
 
 ### Visitor Capture & Detection
