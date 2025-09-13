@@ -13,8 +13,9 @@ Coursework project for **A Level Computer Science** awarded **97%**.
 ## 🛠 Tech Stack
 
 - **Hardware**: Raspberry Pi 4, Monk Makes Speaker Module, Raspberry Pi Camera Module V1
-- **Software**: OpenCV (image processing), face_recognition (deep learning-based face recognition), Python Kivy (movile app frontend), Flask (mobile app backend)<br><br>
-
+- **Frontend**: Python Kivy (mobile app UI)  
+- **Backend**: Flask (API + server logic), OpenCV (image processing), face_recognition (deep learning-based face recognition)  
+- **Database**: MySQL (visitor logs, face data, audio recordings, user accounts) with SHA3-256 hashing for secure credential storage  
 
 ## 📝 Project Overview
 
@@ -31,8 +32,8 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 
 ### Visitor Capture & Detection
 - Button press triggers Raspberry Pi camera to capture visitor image  
-- Detects faces using **OpenCV Haar cascades**  
-- Sends notification to the user’s phone with visitor image and name (if recognised)  
+- Detects faces using **OpenCV Haar cascades**
+- Sends notification via **MQTT** to the user’s phone with visitor image and name (if recognised)  
 
 ### AI-Powered Face Recognition
 - Computes **face encodings** for each detected face using `face_recognition`  
@@ -41,11 +42,11 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 
 ### Mobile App 
 - Notifies user when the doorbell is rung and displays visitor image and name (if available)  
-- Plays pre-recorded messages remotely via Raspberry Pi speaker  
+- Plays pre-recorded messages remotely via Raspberry Pi speaker using **MQTT**
 - Logs visits when the user is unavailable  
 
 ### Cloud Logging & Notifications
-- Stores visitor images and timestamps in a secure cloud database  
+- Stores visitor images and timestamps in a secure **MySQL database**
 - Sends notifications even when the user is away from home  
 - Provides an easy-to-review history of all visits<br><br>
 
