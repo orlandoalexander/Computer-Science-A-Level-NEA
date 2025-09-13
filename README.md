@@ -51,3 +51,11 @@ The mobile app allows the user to interact with the doorbell in real-time. When 
 - Stores visitor images and timestamps in a secure cloud database  
 - Sends notifications even when the user is away from home  
 - Provides an easy-to-review history of all visits
+
+
+<img width="708" height="559" alt="Screenshot 2025-09-13 at 16 45 02" src="https://github.com/user-attachments/assets/79fae5a9-1846-4869-b0c6-f49fd78f38d1" />
+<img width="607" height="733" alt="Screenshot 2025-09-13 at 16 45 17" src="https://github.com/user-attachments/assets/ca58cd96-cfd5-46d0-9cc9-7f0cc6d38c80" />
+<img width="764" height="294" alt="Screenshot 2025-09-13 at 16 45 08" src="https://github.com/user-attachments/assets/39dab4e1-82f4-4946-9c16-235322f876c7" />
+
+
+
