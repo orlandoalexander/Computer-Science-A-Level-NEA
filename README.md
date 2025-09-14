@@ -1,6 +1,6 @@
 # AI-Driven Video Doorbell & Mobile App
 
-**AI-driven video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Sends instant visitor notifications through the app, recognises familiar faces using computer vision, and enables seamless interaction with visitors – all without leaving their desk.
+**AI video doorbell and mobile app** designed to help home-workers avoid interruptions during video calls. Sends instant visitor notifications through the app, recognises familiar faces using computer vision, and enables seamless interaction with visitors – all without leaving their desk.
 
 Coursework project for **A Level Computer Science** awarded **97%**.  
 
